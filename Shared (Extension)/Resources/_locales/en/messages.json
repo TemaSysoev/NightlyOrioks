@@ -4,7 +4,7 @@
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "This is DarkOrioks. You should tell us what your extension does here.",
-        "description": "Description of what the extension does."
+        "message": "This is DarkOrioks",
+        "description": "Dark theme for orioks.ru."
     }
 }
