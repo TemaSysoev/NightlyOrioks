@@ -1,14 +1,17 @@
 {
   "images" : [
     {
+      "filename" : "darkORIOKS-256.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "darkORIOKS-512.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "darkORIOKS-256x3.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

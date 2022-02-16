@@ -9,14 +9,99 @@
 /* Begin PBXBuildFile section */
 		E075072627BD1A9D00754EFB /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = E075072527BD1A9D00754EFB /* styles.css */; };
 		E075072727BD1A9D00754EFB /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = E075072527BD1A9D00754EFB /* styles.css */; };
+		E075073227BD3DE600754EFB /* darkORIOKS-128.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072A27BD3DE600754EFB /* darkORIOKS-128.png */; };
+		E075073327BD3DE600754EFB /* darkORIOKS-128.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072A27BD3DE600754EFB /* darkORIOKS-128.png */; };
+		E075073427BD3DE600754EFB /* darkORIOKS-16.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072B27BD3DE600754EFB /* darkORIOKS-16.png */; };
+		E075073527BD3DE600754EFB /* darkORIOKS-16.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072B27BD3DE600754EFB /* darkORIOKS-16.png */; };
+		E075073627BD3DE600754EFB /* darkORIOKS-512.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072C27BD3DE600754EFB /* darkORIOKS-512.png */; };
+		E075073727BD3DE600754EFB /* darkORIOKS-512.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072C27BD3DE600754EFB /* darkORIOKS-512.png */; };
+		E075073827BD3DE600754EFB /* darkORIOKS-64.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072D27BD3DE600754EFB /* darkORIOKS-64.png */; };
+		E075073927BD3DE600754EFB /* darkORIOKS-64.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072D27BD3DE600754EFB /* darkORIOKS-64.png */; };
+		E075073A27BD3DE600754EFB /* darkORIOKS-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072E27BD3DE600754EFB /* darkORIOKS-1024.png */; };
+		E075073B27BD3DE600754EFB /* darkORIOKS-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072E27BD3DE600754EFB /* darkORIOKS-1024.png */; };
+		E075073E27BD3DE600754EFB /* darkORIOKS-32.png in Resources */ = {isa = PBXBuildFile; fileRef = E075073027BD3DE600754EFB /* darkORIOKS-32.png */; };
+		E075073F27BD3DE600754EFB /* darkORIOKS-32.png in Resources */ = {isa = PBXBuildFile; fileRef = E075073027BD3DE600754EFB /* darkORIOKS-32.png */; };
+		E075074027BD3DE600754EFB /* darkORIOKS-256.png in Resources */ = {isa = PBXBuildFile; fileRef = E075073127BD3DE600754EFB /* darkORIOKS-256.png */; };
+		E075074127BD3DE600754EFB /* darkORIOKS-256.png in Resources */ = {isa = PBXBuildFile; fileRef = E075073127BD3DE600754EFB /* darkORIOKS-256.png */; };
+		E075075427BD3E6C00754EFB /* darkORIOKS iOS-29.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074427BD3E6C00754EFB /* darkORIOKS iOS-29.png */; };
+		E075075527BD3E6C00754EFB /* darkORIOKS iOS-29.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074427BD3E6C00754EFB /* darkORIOKS iOS-29.png */; };
+		E075075627BD3E6C00754EFB /* darkORIOKS iOS-29.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074427BD3E6C00754EFB /* darkORIOKS iOS-29.png */; };
+		E075075727BD3E6C00754EFB /* darkORIOKS iOS-29.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074427BD3E6C00754EFB /* darkORIOKS iOS-29.png */; };
+		E075075827BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074527BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png */; };
+		E075075927BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074527BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png */; };
+		E075075A27BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074527BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png */; };
+		E075075B27BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074527BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png */; };
+		E075075C27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074627BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png */; };
+		E075075D27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074627BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png */; };
+		E075075E27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074627BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png */; };
+		E075075F27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074627BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png */; };
+		E075076027BD3E6C00754EFB /* darkORIOKS iOS-76.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074727BD3E6C00754EFB /* darkORIOKS iOS-76.png */; };
+		E075076127BD3E6C00754EFB /* darkORIOKS iOS-76.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074727BD3E6C00754EFB /* darkORIOKS iOS-76.png */; };
+		E075076227BD3E6C00754EFB /* darkORIOKS iOS-76.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074727BD3E6C00754EFB /* darkORIOKS iOS-76.png */; };
+		E075076327BD3E6C00754EFB /* darkORIOKS iOS-76.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074727BD3E6C00754EFB /* darkORIOKS iOS-76.png */; };
+		E075076427BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074827BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png */; };
+		E075076527BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074827BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png */; };
+		E075076627BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074827BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png */; };
+		E075076727BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074827BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png */; };
+		E075076827BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074927BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png */; };
+		E075076927BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074927BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png */; };
+		E075076A27BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074927BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png */; };
+		E075076B27BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074927BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png */; };
+		E075076C27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074A27BD3E6C00754EFB /* darkORIOKS iOS-1024.png */; };
+		E075076D27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074A27BD3E6C00754EFB /* darkORIOKS iOS-1024.png */; };
+		E075076E27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074A27BD3E6C00754EFB /* darkORIOKS iOS-1024.png */; };
+		E075076F27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074A27BD3E6C00754EFB /* darkORIOKS iOS-1024.png */; };
+		E075077027BD3E6C00754EFB /* darkORIOKS iOS-40.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074B27BD3E6C00754EFB /* darkORIOKS iOS-40.png */; };
+		E075077127BD3E6C00754EFB /* darkORIOKS iOS-40.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074B27BD3E6C00754EFB /* darkORIOKS iOS-40.png */; };
+		E075077227BD3E6C00754EFB /* darkORIOKS iOS-40.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074B27BD3E6C00754EFB /* darkORIOKS iOS-40.png */; };
+		E075077327BD3E6C00754EFB /* darkORIOKS iOS-40.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074B27BD3E6C00754EFB /* darkORIOKS iOS-40.png */; };
+		E075077427BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074C27BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png */; };
+		E075077527BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074C27BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png */; };
+		E075077627BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074C27BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png */; };
+		E075077727BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074C27BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png */; };
+		E075077C27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074E27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png */; };
+		E075077D27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074E27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png */; };
+		E075077E27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074E27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png */; };
+		E075077F27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074E27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png */; };
+		E075078027BD3E6C00754EFB /* darkORIOKS iOS-20.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074F27BD3E6C00754EFB /* darkORIOKS iOS-20.png */; };
+		E075078127BD3E6C00754EFB /* darkORIOKS iOS-20.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074F27BD3E6C00754EFB /* darkORIOKS iOS-20.png */; };
+		E075078227BD3E6C00754EFB /* darkORIOKS iOS-20.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074F27BD3E6C00754EFB /* darkORIOKS iOS-20.png */; };
+		E075078327BD3E6C00754EFB /* darkORIOKS iOS-20.png in Resources */ = {isa = PBXBuildFile; fileRef = E075074F27BD3E6C00754EFB /* darkORIOKS iOS-20.png */; };
+		E075078427BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075027BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png */; };
+		E075078527BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075027BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png */; };
+		E075078627BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075027BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png */; };
+		E075078727BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075027BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png */; };
+		E075078827BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075127BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png */; };
+		E075078927BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075127BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png */; };
+		E075078A27BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075127BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png */; };
+		E075078B27BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075127BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png */; };
+		E075078C27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075227BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png */; };
+		E075078D27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075227BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png */; };
+		E075078E27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075227BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png */; };
+		E075078F27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075227BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png */; };
+		E075079027BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075327BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png */; };
+		E075079127BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075327BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png */; };
+		E075079227BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075327BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png */; };
+		E075079327BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E075075327BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png */; };
+		E075079427BD3E7500754EFB /* darkORIOKS-128.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072A27BD3DE600754EFB /* darkORIOKS-128.png */; };
+		E075079527BD3E7E00754EFB /* darkORIOKS-64.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072D27BD3DE600754EFB /* darkORIOKS-64.png */; };
+		E075079627BD3E7E00754EFB /* darkORIOKS-512.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072C27BD3DE600754EFB /* darkORIOKS-512.png */; };
+		E075079727BD3E7E00754EFB /* darkORIOKS-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072E27BD3DE600754EFB /* darkORIOKS-1024.png */; };
+		E075079827BD3E7E00754EFB /* darkORIOKS-256.png in Resources */ = {isa = PBXBuildFile; fileRef = E075073127BD3DE600754EFB /* darkORIOKS-256.png */; };
+		E075079927BD3E7E00754EFB /* darkORIOKS-16.png in Resources */ = {isa = PBXBuildFile; fileRef = E075072B27BD3DE600754EFB /* darkORIOKS-16.png */; };
+		E075079B27BD3E7E00754EFB /* darkORIOKS-32.png in Resources */ = {isa = PBXBuildFile; fileRef = E075073027BD3DE600754EFB /* darkORIOKS-32.png */; };
+		E075079D27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */ = {isa = PBXBuildFile; fileRef = E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */; };
+		E075079E27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */ = {isa = PBXBuildFile; fileRef = E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */; };
+		E075079F27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */ = {isa = PBXBuildFile; fileRef = E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */; };
+		E07507A027BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */ = {isa = PBXBuildFile; fileRef = E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */; };
 		E0EA0D0D27BD0A6600F8DF36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D0C27BD0A6600F8DF36 /* AppDelegate.swift */; };
 		E0EA0D0F27BD0A6600F8DF36 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D0E27BD0A6600F8DF36 /* SceneDelegate.swift */; };
 		E0EA0D1227BD0A6600F8DF36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D1027BD0A6600F8DF36 /* LaunchScreen.storyboard */; };
 		E0EA0D1527BD0A6600F8DF36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D1327BD0A6600F8DF36 /* Main.storyboard */; };
 		E0EA0D1E27BD0A6600F8DF36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D1D27BD0A6600F8DF36 /* AppDelegate.swift */; };
 		E0EA0D2127BD0A6600F8DF36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D1F27BD0A6600F8DF36 /* Main.storyboard */; };
-		E0EA0D2827BD0A6600F8DF36 /* DarkOrioks Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E0EA0D2727BD0A6600F8DF36 /* DarkOrioks Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		E0EA0D3227BD0A6600F8DF36 /* DarkOrioks Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E0EA0D3127BD0A6600F8DF36 /* DarkOrioks Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E0EA0D2827BD0A6600F8DF36 /* NightlyORIOKS Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E0EA0D2727BD0A6600F8DF36 /* NightlyORIOKS Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E0EA0D3227BD0A6600F8DF36 /* NightlyORIOKS Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E0EA0D3127BD0A6600F8DF36 /* NightlyORIOKS Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		E0EA0D3827BD0A6600F8DF36 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF327BD0A6400F8DF36 /* Main.html */; };
 		E0EA0D3927BD0A6600F8DF36 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF327BD0A6400F8DF36 /* Main.html */; };
 		E0EA0D3A27BD0A6600F8DF36 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF527BD0A6400F8DF36 /* Icon.png */; };
@@ -73,7 +158,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				E0EA0D2827BD0A6600F8DF36 /* DarkOrioks Extension.appex in Embed App Extensions */,
+				E0EA0D2827BD0A6600F8DF36 /* NightlyORIOKS Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -84,7 +169,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				E0EA0D3227BD0A6600F8DF36 /* DarkOrioks Extension.appex in Embed App Extensions */,
+				E0EA0D3227BD0A6600F8DF36 /* NightlyORIOKS Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -93,6 +178,29 @@
 
 /* Begin PBXFileReference section */
 		E075072527BD1A9D00754EFB /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		E075072A27BD3DE600754EFB /* darkORIOKS-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS-128.png"; sourceTree = "<group>"; };
+		E075072B27BD3DE600754EFB /* darkORIOKS-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS-16.png"; sourceTree = "<group>"; };
+		E075072C27BD3DE600754EFB /* darkORIOKS-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS-512.png"; sourceTree = "<group>"; };
+		E075072D27BD3DE600754EFB /* darkORIOKS-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS-64.png"; sourceTree = "<group>"; };
+		E075072E27BD3DE600754EFB /* darkORIOKS-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS-1024.png"; sourceTree = "<group>"; };
+		E075073027BD3DE600754EFB /* darkORIOKS-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS-32.png"; sourceTree = "<group>"; };
+		E075073127BD3DE600754EFB /* darkORIOKS-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS-256.png"; sourceTree = "<group>"; };
+		E075074427BD3E6C00754EFB /* darkORIOKS iOS-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-29.png"; sourceTree = "<group>"; };
+		E075074527BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-20@3x.png"; sourceTree = "<group>"; };
+		E075074627BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-20@2x.png"; sourceTree = "<group>"; };
+		E075074727BD3E6C00754EFB /* darkORIOKS iOS-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-76.png"; sourceTree = "<group>"; };
+		E075074827BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-76@2x.png"; sourceTree = "<group>"; };
+		E075074927BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-40@2x.png"; sourceTree = "<group>"; };
+		E075074A27BD3E6C00754EFB /* darkORIOKS iOS-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-1024.png"; sourceTree = "<group>"; };
+		E075074B27BD3E6C00754EFB /* darkORIOKS iOS-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-40.png"; sourceTree = "<group>"; };
+		E075074C27BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-83.5@2x.png"; sourceTree = "<group>"; };
+		E075074E27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-40@3x.png"; sourceTree = "<group>"; };
+		E075074F27BD3E6C00754EFB /* darkORIOKS iOS-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-20.png"; sourceTree = "<group>"; };
+		E075075027BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-60@3x.png"; sourceTree = "<group>"; };
+		E075075127BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-29@2x.png"; sourceTree = "<group>"; };
+		E075075227BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-29@3x.png"; sourceTree = "<group>"; };
+		E075075327BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS iOS-60@2x.png"; sourceTree = "<group>"; };
+		E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "darkORIOKS-256x3.png"; sourceTree = "<group>"; };
 		E0EA0CF427BD0A6400F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
 		E0EA0CF527BD0A6400F8DF36 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		E0EA0CF627BD0A6400F8DF36 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
@@ -108,19 +216,19 @@
 		E0EA0D0227BD0A6600F8DF36 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = popup.html; sourceTree = "<group>"; };
 		E0EA0D0327BD0A6600F8DF36 /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = popup.css; sourceTree = "<group>"; };
 		E0EA0D0427BD0A6600F8DF36 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
-		E0EA0D0927BD0A6600F8DF36 /* DarkOrioks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DarkOrioks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0EA0D0927BD0A6600F8DF36 /* NightlyORIOKS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NightlyORIOKS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0EA0D0C27BD0A6600F8DF36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0EA0D0E27BD0A6600F8DF36 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E0EA0D1127BD0A6600F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0EA0D1427BD0A6600F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E0EA0D1627BD0A6600F8DF36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E0EA0D1B27BD0A6600F8DF36 /* DarkOrioks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DarkOrioks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0EA0D1B27BD0A6600F8DF36 /* NightlyORIOKS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NightlyORIOKS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0EA0D1D27BD0A6600F8DF36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0EA0D2027BD0A6600F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E0EA0D2227BD0A6600F8DF36 /* DarkOrioks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DarkOrioks.entitlements; sourceTree = "<group>"; };
-		E0EA0D2727BD0A6600F8DF36 /* DarkOrioks Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "DarkOrioks Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0EA0D2727BD0A6600F8DF36 /* NightlyORIOKS Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "NightlyORIOKS Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0EA0D2C27BD0A6600F8DF36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E0EA0D3127BD0A6600F8DF36 /* DarkOrioks Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "DarkOrioks Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0EA0D3127BD0A6600F8DF36 /* NightlyORIOKS Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "NightlyORIOKS Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0EA0D3627BD0A6600F8DF36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0EA0D3727BD0A6600F8DF36 /* DarkOrioks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DarkOrioks.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -157,6 +265,59 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E075072827BD3DE600754EFB /* macOS */ = {
+			isa = PBXGroup;
+			children = (
+				E075072927BD3DE600754EFB /* AppIcon.appiconset */,
+			);
+			path = macOS;
+			sourceTree = "<group>";
+		};
+		E075072927BD3DE600754EFB /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				E075072A27BD3DE600754EFB /* darkORIOKS-128.png */,
+				E075072B27BD3DE600754EFB /* darkORIOKS-16.png */,
+				E075072C27BD3DE600754EFB /* darkORIOKS-512.png */,
+				E075072D27BD3DE600754EFB /* darkORIOKS-64.png */,
+				E075072E27BD3DE600754EFB /* darkORIOKS-1024.png */,
+				E075073027BD3DE600754EFB /* darkORIOKS-32.png */,
+				E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */,
+				E075073127BD3DE600754EFB /* darkORIOKS-256.png */,
+			);
+			path = AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
+		E075074227BD3E6C00754EFB /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				E075074327BD3E6C00754EFB /* AppIcon.appiconset */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		E075074327BD3E6C00754EFB /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				E075074427BD3E6C00754EFB /* darkORIOKS iOS-29.png */,
+				E075074527BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png */,
+				E075074627BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png */,
+				E075074727BD3E6C00754EFB /* darkORIOKS iOS-76.png */,
+				E075074827BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png */,
+				E075074927BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png */,
+				E075074A27BD3E6C00754EFB /* darkORIOKS iOS-1024.png */,
+				E075074B27BD3E6C00754EFB /* darkORIOKS iOS-40.png */,
+				E075074C27BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png */,
+				E075074E27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png */,
+				E075074F27BD3E6C00754EFB /* darkORIOKS iOS-20.png */,
+				E075075027BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png */,
+				E075075127BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png */,
+				E075075227BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png */,
+				E075075327BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png */,
+			);
+			path = AppIcon.appiconset;
+			sourceTree = "<group>";
+		};
 		E0EA0CEC27BD0A6400F8DF36 = {
 			isa = PBXGroup;
 			children = (
@@ -219,10 +380,10 @@
 		E0EA0D0A27BD0A6600F8DF36 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E0EA0D0927BD0A6600F8DF36 /* DarkOrioks.app */,
-				E0EA0D1B27BD0A6600F8DF36 /* DarkOrioks.app */,
-				E0EA0D2727BD0A6600F8DF36 /* DarkOrioks Extension.appex */,
-				E0EA0D3127BD0A6600F8DF36 /* DarkOrioks Extension.appex */,
+				E0EA0D0927BD0A6600F8DF36 /* NightlyORIOKS.app */,
+				E0EA0D1B27BD0A6600F8DF36 /* NightlyORIOKS.app */,
+				E0EA0D2727BD0A6600F8DF36 /* NightlyORIOKS Extension.appex */,
+				E0EA0D3127BD0A6600F8DF36 /* NightlyORIOKS Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -235,6 +396,7 @@
 				E0EA0D1027BD0A6600F8DF36 /* LaunchScreen.storyboard */,
 				E0EA0D1327BD0A6600F8DF36 /* Main.storyboard */,
 				E0EA0D1627BD0A6600F8DF36 /* Info.plist */,
+				E075074227BD3E6C00754EFB /* iOS */,
 			);
 			path = "iOS (App)";
 			sourceTree = "<group>";
@@ -245,6 +407,7 @@
 				E0EA0D1D27BD0A6600F8DF36 /* AppDelegate.swift */,
 				E0EA0D1F27BD0A6600F8DF36 /* Main.storyboard */,
 				E0EA0D2227BD0A6600F8DF36 /* DarkOrioks.entitlements */,
+				E075072827BD3DE600754EFB /* macOS */,
 			);
 			path = "macOS (App)";
 			sourceTree = "<group>";
@@ -269,9 +432,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E0EA0D0827BD0A6600F8DF36 /* DarkOrioks (iOS) */ = {
+		E0EA0D0827BD0A6600F8DF36 /* NightlyORIOKS (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E0EA0D5C27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks (iOS)" */;
+			buildConfigurationList = E0EA0D5C27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "NightlyORIOKS (iOS)" */;
 			buildPhases = (
 				E0EA0D0527BD0A6600F8DF36 /* Sources */,
 				E0EA0D0627BD0A6600F8DF36 /* Frameworks */,
@@ -283,14 +446,14 @@
 			dependencies = (
 				E0EA0D2A27BD0A6600F8DF36 /* PBXTargetDependency */,
 			);
-			name = "DarkOrioks (iOS)";
+			name = "NightlyORIOKS (iOS)";
 			productName = "DarkOrioks (iOS)";
-			productReference = E0EA0D0927BD0A6600F8DF36 /* DarkOrioks.app */;
+			productReference = E0EA0D0927BD0A6600F8DF36 /* NightlyORIOKS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E0EA0D1A27BD0A6600F8DF36 /* DarkOrioks (macOS) */ = {
+		E0EA0D1A27BD0A6600F8DF36 /* NightlyORIOKS (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E0EA0D6327BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks (macOS)" */;
+			buildConfigurationList = E0EA0D6327BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "NightlyORIOKS (macOS)" */;
 			buildPhases = (
 				E0EA0D1727BD0A6600F8DF36 /* Sources */,
 				E0EA0D1827BD0A6600F8DF36 /* Frameworks */,
@@ -302,14 +465,14 @@
 			dependencies = (
 				E0EA0D3427BD0A6600F8DF36 /* PBXTargetDependency */,
 			);
-			name = "DarkOrioks (macOS)";
+			name = "NightlyORIOKS (macOS)";
 			productName = "DarkOrioks (macOS)";
-			productReference = E0EA0D1B27BD0A6600F8DF36 /* DarkOrioks.app */;
+			productReference = E0EA0D1B27BD0A6600F8DF36 /* NightlyORIOKS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E0EA0D2627BD0A6600F8DF36 /* DarkOrioks Extension (iOS) */ = {
+		E0EA0D2627BD0A6600F8DF36 /* NightlyORIOKS Extension (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E0EA0D5827BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks Extension (iOS)" */;
+			buildConfigurationList = E0EA0D5827BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "NightlyORIOKS Extension (iOS)" */;
 			buildPhases = (
 				E0EA0D2327BD0A6600F8DF36 /* Sources */,
 				E0EA0D2427BD0A6600F8DF36 /* Frameworks */,
@@ -319,14 +482,14 @@
 			);
 			dependencies = (
 			);
-			name = "DarkOrioks Extension (iOS)";
+			name = "NightlyORIOKS Extension (iOS)";
 			productName = "DarkOrioks Extension (iOS)";
-			productReference = E0EA0D2727BD0A6600F8DF36 /* DarkOrioks Extension.appex */;
+			productReference = E0EA0D2727BD0A6600F8DF36 /* NightlyORIOKS Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		E0EA0D3027BD0A6600F8DF36 /* DarkOrioks Extension (macOS) */ = {
+		E0EA0D3027BD0A6600F8DF36 /* NightlyORIOKS Extension (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E0EA0D5F27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks Extension (macOS)" */;
+			buildConfigurationList = E0EA0D5F27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "NightlyORIOKS Extension (macOS)" */;
 			buildPhases = (
 				E0EA0D2D27BD0A6600F8DF36 /* Sources */,
 				E0EA0D2E27BD0A6600F8DF36 /* Frameworks */,
@@ -336,9 +499,9 @@
 			);
 			dependencies = (
 			);
-			name = "DarkOrioks Extension (macOS)";
+			name = "NightlyORIOKS Extension (macOS)";
 			productName = "DarkOrioks Extension (macOS)";
-			productReference = E0EA0D3127BD0A6600F8DF36 /* DarkOrioks Extension.appex */;
+			productReference = E0EA0D3127BD0A6600F8DF36 /* NightlyORIOKS Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
@@ -365,7 +528,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E0EA0CF027BD0A6400F8DF36 /* Build configuration list for PBXProject "DarkOrioks" */;
+			buildConfigurationList = E0EA0CF027BD0A6400F8DF36 /* Build configuration list for PBXProject "NightlyORIOKS" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -378,10 +541,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E0EA0D0827BD0A6600F8DF36 /* DarkOrioks (iOS) */,
-				E0EA0D1A27BD0A6600F8DF36 /* DarkOrioks (macOS) */,
-				E0EA0D2627BD0A6600F8DF36 /* DarkOrioks Extension (iOS) */,
-				E0EA0D3027BD0A6600F8DF36 /* DarkOrioks Extension (macOS) */,
+				E0EA0D0827BD0A6600F8DF36 /* NightlyORIOKS (iOS) */,
+				E0EA0D1A27BD0A6600F8DF36 /* NightlyORIOKS (macOS) */,
+				E0EA0D2627BD0A6600F8DF36 /* NightlyORIOKS Extension (iOS) */,
+				E0EA0D3027BD0A6600F8DF36 /* NightlyORIOKS Extension (macOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -391,12 +554,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E075076C27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */,
+				E075078827BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */,
+				E075078427BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */,
 				E0EA0D3A27BD0A6600F8DF36 /* Icon.png in Resources */,
+				E075079D27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */,
+				E075076827BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */,
+				E075078C27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */,
 				E0EA0D1227BD0A6600F8DF36 /* LaunchScreen.storyboard in Resources */,
+				E075077C27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png in Resources */,
 				E0EA0D3827BD0A6600F8DF36 /* Main.html in Resources */,
 				E0EA0D3E27BD0A6600F8DF36 /* Script.js in Resources */,
+				E075077427BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png in Resources */,
+				E075075427BD3E6C00754EFB /* darkORIOKS iOS-29.png in Resources */,
+				E075075827BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png in Resources */,
+				E075079027BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png in Resources */,
 				E0EA0D4227BD0A6600F8DF36 /* Assets.xcassets in Resources */,
+				E075078027BD3E6C00754EFB /* darkORIOKS iOS-20.png in Resources */,
+				E075076427BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png in Resources */,
+				E075076027BD3E6C00754EFB /* darkORIOKS iOS-76.png in Resources */,
+				E075077027BD3E6C00754EFB /* darkORIOKS iOS-40.png in Resources */,
 				E0EA0D1527BD0A6600F8DF36 /* Main.storyboard in Resources */,
+				E075075C27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */,
 				E0EA0D3C27BD0A6600F8DF36 /* Style.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -406,11 +585,34 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0EA0D3B27BD0A6600F8DF36 /* Icon.png in Resources */,
+				E075077527BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png in Resources */,
+				E075075927BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png in Resources */,
+				E075079E27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */,
+				E075077D27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png in Resources */,
+				E075078127BD3E6C00754EFB /* darkORIOKS iOS-20.png in Resources */,
+				E075076927BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */,
+				E075079427BD3E7500754EFB /* darkORIOKS-128.png in Resources */,
 				E0EA0D3D27BD0A6600F8DF36 /* Style.css in Resources */,
+				E075079727BD3E7E00754EFB /* darkORIOKS-1024.png in Resources */,
 				E0EA0D2127BD0A6600F8DF36 /* Main.storyboard in Resources */,
+				E075079B27BD3E7E00754EFB /* darkORIOKS-32.png in Resources */,
+				E075078927BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */,
+				E075076127BD3E6C00754EFB /* darkORIOKS iOS-76.png in Resources */,
+				E075079927BD3E7E00754EFB /* darkORIOKS-16.png in Resources */,
+				E075076527BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png in Resources */,
+				E075077127BD3E6C00754EFB /* darkORIOKS iOS-40.png in Resources */,
 				E0EA0D3F27BD0A6600F8DF36 /* Script.js in Resources */,
+				E075079127BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png in Resources */,
+				E075075D27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */,
+				E075079827BD3E7E00754EFB /* darkORIOKS-256.png in Resources */,
 				E0EA0D4327BD0A6600F8DF36 /* Assets.xcassets in Resources */,
+				E075079627BD3E7E00754EFB /* darkORIOKS-512.png in Resources */,
+				E075078D27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */,
+				E075076D27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */,
+				E075079527BD3E7E00754EFB /* darkORIOKS-64.png in Resources */,
 				E0EA0D3927BD0A6600F8DF36 /* Main.html in Resources */,
+				E075078527BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */,
+				E075075527BD3E6C00754EFB /* darkORIOKS iOS-29.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,14 +621,37 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0EA0D4C27BD0A6600F8DF36 /* background.js in Resources */,
+				E075073A27BD3DE600754EFB /* darkORIOKS-1024.png in Resources */,
+				E075077627BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png in Resources */,
+				E075079227BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png in Resources */,
+				E075073427BD3DE600754EFB /* darkORIOKS-16.png in Resources */,
 				E0EA0D5227BD0A6600F8DF36 /* popup.css in Resources */,
+				E075073827BD3DE600754EFB /* darkORIOKS-64.png in Resources */,
+				E075076627BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png in Resources */,
+				E075073627BD3DE600754EFB /* darkORIOKS-512.png in Resources */,
+				E075074027BD3DE600754EFB /* darkORIOKS-256.png in Resources */,
+				E075075E27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */,
 				E0EA0D5027BD0A6600F8DF36 /* popup.html in Resources */,
+				E075076A27BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */,
 				E0EA0D4827BD0A6600F8DF36 /* images in Resources */,
 				E0EA0D4A27BD0A6600F8DF36 /* manifest.json in Resources */,
 				E0EA0D4627BD0A6600F8DF36 /* _locales in Resources */,
 				E075072627BD1A9D00754EFB /* styles.css in Resources */,
 				E0EA0D4E27BD0A6600F8DF36 /* content.js in Resources */,
+				E075078E27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */,
+				E075075627BD3E6C00754EFB /* darkORIOKS iOS-29.png in Resources */,
+				E075076E27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */,
+				E075078627BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */,
+				E075073227BD3DE600754EFB /* darkORIOKS-128.png in Resources */,
+				E075078227BD3E6C00754EFB /* darkORIOKS iOS-20.png in Resources */,
+				E075078A27BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */,
 				E0EA0D5427BD0A6600F8DF36 /* popup.js in Resources */,
+				E075077227BD3E6C00754EFB /* darkORIOKS iOS-40.png in Resources */,
+				E075073E27BD3DE600754EFB /* darkORIOKS-32.png in Resources */,
+				E075075A27BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png in Resources */,
+				E075079F27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */,
+				E075076227BD3E6C00754EFB /* darkORIOKS iOS-76.png in Resources */,
+				E075077E27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,14 +660,37 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0EA0D4D27BD0A6600F8DF36 /* background.js in Resources */,
+				E075073B27BD3DE600754EFB /* darkORIOKS-1024.png in Resources */,
+				E075077727BD3E6C00754EFB /* darkORIOKS iOS-83.5@2x.png in Resources */,
+				E075079327BD3E6C00754EFB /* darkORIOKS iOS-60@2x.png in Resources */,
+				E075073527BD3DE600754EFB /* darkORIOKS-16.png in Resources */,
 				E0EA0D5327BD0A6600F8DF36 /* popup.css in Resources */,
+				E075073927BD3DE600754EFB /* darkORIOKS-64.png in Resources */,
+				E075076727BD3E6C00754EFB /* darkORIOKS iOS-76@2x.png in Resources */,
+				E075073727BD3DE600754EFB /* darkORIOKS-512.png in Resources */,
+				E075074127BD3DE600754EFB /* darkORIOKS-256.png in Resources */,
+				E075075F27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */,
 				E0EA0D5127BD0A6600F8DF36 /* popup.html in Resources */,
+				E075076B27BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */,
 				E0EA0D4927BD0A6600F8DF36 /* images in Resources */,
 				E0EA0D4B27BD0A6600F8DF36 /* manifest.json in Resources */,
 				E0EA0D4727BD0A6600F8DF36 /* _locales in Resources */,
 				E075072727BD1A9D00754EFB /* styles.css in Resources */,
 				E0EA0D4F27BD0A6600F8DF36 /* content.js in Resources */,
+				E075078F27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */,
+				E075075727BD3E6C00754EFB /* darkORIOKS iOS-29.png in Resources */,
+				E075076F27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */,
+				E075078727BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */,
+				E075073327BD3DE600754EFB /* darkORIOKS-128.png in Resources */,
+				E075078327BD3E6C00754EFB /* darkORIOKS iOS-20.png in Resources */,
+				E075078B27BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */,
 				E0EA0D5527BD0A6700F8DF36 /* popup.js in Resources */,
+				E075077327BD3E6C00754EFB /* darkORIOKS iOS-40.png in Resources */,
+				E075073F27BD3DE600754EFB /* darkORIOKS-32.png in Resources */,
+				E075075B27BD3E6C00754EFB /* darkORIOKS iOS-20@3x.png in Resources */,
+				E07507A027BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */,
+				E075076327BD3E6C00754EFB /* darkORIOKS iOS-76.png in Resources */,
+				E075077F27BD3E6C00754EFB /* darkORIOKS iOS-40@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -489,12 +737,12 @@
 /* Begin PBXTargetDependency section */
 		E0EA0D2A27BD0A6600F8DF36 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E0EA0D2627BD0A6600F8DF36 /* DarkOrioks Extension (iOS) */;
+			target = E0EA0D2627BD0A6600F8DF36 /* NightlyORIOKS Extension (iOS) */;
 			targetProxy = E0EA0D2927BD0A6600F8DF36 /* PBXContainerItemProxy */;
 		};
 		E0EA0D3427BD0A6600F8DF36 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E0EA0D3027BD0A6600F8DF36 /* DarkOrioks Extension (macOS) */;
+			target = E0EA0D3027BD0A6600F8DF36 /* NightlyORIOKS Extension (macOS) */;
 			targetProxy = E0EA0D3327BD0A6600F8DF36 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -654,7 +902,7 @@
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "DarkOrioks Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "NightlyORIOKS Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -668,7 +916,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks.Extension";
-				PRODUCT_NAME = "DarkOrioks Extension";
+				PRODUCT_NAME = "NightlyORIOKS Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -685,7 +933,7 @@
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "DarkOrioks Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "NightlyORIOKS Extension";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -699,7 +947,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks.Extension";
-				PRODUCT_NAME = "DarkOrioks Extension";
+				PRODUCT_NAME = "NightlyORIOKS Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -739,7 +987,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks";
-				PRODUCT_NAME = DarkOrioks;
+				PRODUCT_NAME = NightlyORIOKS;
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -777,7 +1025,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks";
-				PRODUCT_NAME = DarkOrioks;
+				PRODUCT_NAME = NightlyORIOKS;
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -810,7 +1058,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks.Extension";
-				PRODUCT_NAME = "DarkOrioks Extension";
+				PRODUCT_NAME = "NightlyORIOKS Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -842,7 +1090,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks.Extension";
-				PRODUCT_NAME = "DarkOrioks Extension";
+				PRODUCT_NAME = "NightlyORIOKS Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -878,7 +1126,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks";
-				PRODUCT_NAME = DarkOrioks;
+				PRODUCT_NAME = NightlyORIOKS;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -913,7 +1161,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks";
-				PRODUCT_NAME = DarkOrioks;
+				PRODUCT_NAME = NightlyORIOKS;
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -923,7 +1171,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E0EA0CF027BD0A6400F8DF36 /* Build configuration list for PBXProject "DarkOrioks" */ = {
+		E0EA0CF027BD0A6400F8DF36 /* Build configuration list for PBXProject "NightlyORIOKS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0EA0D5627BD0A6700F8DF36 /* Debug */,
@@ -932,7 +1180,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E0EA0D5827BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks Extension (iOS)" */ = {
+		E0EA0D5827BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "NightlyORIOKS Extension (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0EA0D5927BD0A6700F8DF36 /* Debug */,
@@ -941,7 +1189,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E0EA0D5C27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks (iOS)" */ = {
+		E0EA0D5C27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "NightlyORIOKS (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0EA0D5D27BD0A6700F8DF36 /* Debug */,
@@ -950,7 +1198,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E0EA0D5F27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks Extension (macOS)" */ = {
+		E0EA0D5F27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "NightlyORIOKS Extension (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0EA0D6027BD0A6700F8DF36 /* Debug */,
@@ -959,7 +1207,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E0EA0D6327BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks (macOS)" */ = {
+		E0EA0D6327BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "NightlyORIOKS (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E0EA0D6427BD0A6700F8DF36 /* Debug */,
