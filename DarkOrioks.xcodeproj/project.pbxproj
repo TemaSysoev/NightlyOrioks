@@ -1,0 +1,968 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E0EA0D0D27BD0A6600F8DF36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D0C27BD0A6600F8DF36 /* AppDelegate.swift */; };
+		E0EA0D0F27BD0A6600F8DF36 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D0E27BD0A6600F8DF36 /* SceneDelegate.swift */; };
+		E0EA0D1227BD0A6600F8DF36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D1027BD0A6600F8DF36 /* LaunchScreen.storyboard */; };
+		E0EA0D1527BD0A6600F8DF36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D1327BD0A6600F8DF36 /* Main.storyboard */; };
+		E0EA0D1E27BD0A6600F8DF36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D1D27BD0A6600F8DF36 /* AppDelegate.swift */; };
+		E0EA0D2127BD0A6600F8DF36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D1F27BD0A6600F8DF36 /* Main.storyboard */; };
+		E0EA0D2827BD0A6600F8DF36 /* DarkOrioks Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E0EA0D2727BD0A6600F8DF36 /* DarkOrioks Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E0EA0D3227BD0A6600F8DF36 /* DarkOrioks Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E0EA0D3127BD0A6600F8DF36 /* DarkOrioks Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E0EA0D3827BD0A6600F8DF36 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF327BD0A6400F8DF36 /* Main.html */; };
+		E0EA0D3927BD0A6600F8DF36 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF327BD0A6400F8DF36 /* Main.html */; };
+		E0EA0D3A27BD0A6600F8DF36 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF527BD0A6400F8DF36 /* Icon.png */; };
+		E0EA0D3B27BD0A6600F8DF36 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF527BD0A6400F8DF36 /* Icon.png */; };
+		E0EA0D3C27BD0A6600F8DF36 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF627BD0A6400F8DF36 /* Style.css */; };
+		E0EA0D3D27BD0A6600F8DF36 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF627BD0A6400F8DF36 /* Style.css */; };
+		E0EA0D3E27BD0A6600F8DF36 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF727BD0A6400F8DF36 /* Script.js */; };
+		E0EA0D3F27BD0A6600F8DF36 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF727BD0A6400F8DF36 /* Script.js */; };
+		E0EA0D4027BD0A6600F8DF36 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0CF827BD0A6400F8DF36 /* ViewController.swift */; };
+		E0EA0D4127BD0A6600F8DF36 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0CF827BD0A6400F8DF36 /* ViewController.swift */; };
+		E0EA0D4227BD0A6600F8DF36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF927BD0A6600F8DF36 /* Assets.xcassets */; };
+		E0EA0D4327BD0A6600F8DF36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CF927BD0A6600F8DF36 /* Assets.xcassets */; };
+		E0EA0D4427BD0A6600F8DF36 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0CFB27BD0A6600F8DF36 /* SafariWebExtensionHandler.swift */; };
+		E0EA0D4527BD0A6600F8DF36 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0CFB27BD0A6600F8DF36 /* SafariWebExtensionHandler.swift */; };
+		E0EA0D4627BD0A6600F8DF36 /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CFD27BD0A6600F8DF36 /* _locales */; };
+		E0EA0D4727BD0A6600F8DF36 /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CFD27BD0A6600F8DF36 /* _locales */; };
+		E0EA0D4827BD0A6600F8DF36 /* images in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CFE27BD0A6600F8DF36 /* images */; };
+		E0EA0D4927BD0A6600F8DF36 /* images in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CFE27BD0A6600F8DF36 /* images */; };
+		E0EA0D4A27BD0A6600F8DF36 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CFF27BD0A6600F8DF36 /* manifest.json */; };
+		E0EA0D4B27BD0A6600F8DF36 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CFF27BD0A6600F8DF36 /* manifest.json */; };
+		E0EA0D4C27BD0A6600F8DF36 /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0027BD0A6600F8DF36 /* background.js */; };
+		E0EA0D4D27BD0A6600F8DF36 /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0027BD0A6600F8DF36 /* background.js */; };
+		E0EA0D4E27BD0A6600F8DF36 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0127BD0A6600F8DF36 /* content.js */; };
+		E0EA0D4F27BD0A6600F8DF36 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0127BD0A6600F8DF36 /* content.js */; };
+		E0EA0D5027BD0A6600F8DF36 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0227BD0A6600F8DF36 /* popup.html */; };
+		E0EA0D5127BD0A6600F8DF36 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0227BD0A6600F8DF36 /* popup.html */; };
+		E0EA0D5227BD0A6600F8DF36 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0327BD0A6600F8DF36 /* popup.css */; };
+		E0EA0D5327BD0A6600F8DF36 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0327BD0A6600F8DF36 /* popup.css */; };
+		E0EA0D5427BD0A6600F8DF36 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0427BD0A6600F8DF36 /* popup.js */; };
+		E0EA0D5527BD0A6700F8DF36 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D0427BD0A6600F8DF36 /* popup.js */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E0EA0D2927BD0A6600F8DF36 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E0EA0CED27BD0A6400F8DF36 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E0EA0D2627BD0A6600F8DF36;
+			remoteInfo = "DarkOrioks Extension (iOS)";
+		};
+		E0EA0D3327BD0A6600F8DF36 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E0EA0CED27BD0A6400F8DF36 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E0EA0D3027BD0A6600F8DF36;
+			remoteInfo = "DarkOrioks Extension (macOS)";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E0EA0D5B27BD0A6700F8DF36 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				E0EA0D2827BD0A6600F8DF36 /* DarkOrioks Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D6227BD0A6700F8DF36 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				E0EA0D3227BD0A6600F8DF36 /* DarkOrioks Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		E0EA0CF427BD0A6400F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
+		E0EA0CF527BD0A6400F8DF36 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		E0EA0CF627BD0A6400F8DF36 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
+		E0EA0CF727BD0A6400F8DF36 /* Script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = Script.js; sourceTree = "<group>"; };
+		E0EA0CF827BD0A6400F8DF36 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E0EA0CF927BD0A6600F8DF36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E0EA0CFB27BD0A6600F8DF36 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
+		E0EA0CFD27BD0A6600F8DF36 /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _locales; sourceTree = "<group>"; };
+		E0EA0CFE27BD0A6600F8DF36 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
+		E0EA0CFF27BD0A6600F8DF36 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
+		E0EA0D0027BD0A6600F8DF36 /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = background.js; sourceTree = "<group>"; };
+		E0EA0D0127BD0A6600F8DF36 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
+		E0EA0D0227BD0A6600F8DF36 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = popup.html; sourceTree = "<group>"; };
+		E0EA0D0327BD0A6600F8DF36 /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = popup.css; sourceTree = "<group>"; };
+		E0EA0D0427BD0A6600F8DF36 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
+		E0EA0D0927BD0A6600F8DF36 /* DarkOrioks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DarkOrioks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0EA0D0C27BD0A6600F8DF36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E0EA0D0E27BD0A6600F8DF36 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		E0EA0D1127BD0A6600F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E0EA0D1427BD0A6600F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E0EA0D1627BD0A6600F8DF36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0EA0D1B27BD0A6600F8DF36 /* DarkOrioks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DarkOrioks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0EA0D1D27BD0A6600F8DF36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E0EA0D2027BD0A6600F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E0EA0D2227BD0A6600F8DF36 /* DarkOrioks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DarkOrioks.entitlements; sourceTree = "<group>"; };
+		E0EA0D2727BD0A6600F8DF36 /* DarkOrioks Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "DarkOrioks Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0EA0D2C27BD0A6600F8DF36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0EA0D3127BD0A6600F8DF36 /* DarkOrioks Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "DarkOrioks Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E0EA0D3627BD0A6600F8DF36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0EA0D3727BD0A6600F8DF36 /* DarkOrioks.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DarkOrioks.entitlements; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E0EA0D0627BD0A6600F8DF36 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D1827BD0A6600F8DF36 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D2427BD0A6600F8DF36 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D2E27BD0A6600F8DF36 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E0EA0CEC27BD0A6400F8DF36 = {
+			isa = PBXGroup;
+			children = (
+				E0EA0CF127BD0A6400F8DF36 /* Shared (App) */,
+				E0EA0CFA27BD0A6600F8DF36 /* Shared (Extension) */,
+				E0EA0D0B27BD0A6600F8DF36 /* iOS (App) */,
+				E0EA0D1C27BD0A6600F8DF36 /* macOS (App) */,
+				E0EA0D2B27BD0A6600F8DF36 /* iOS (Extension) */,
+				E0EA0D3527BD0A6600F8DF36 /* macOS (Extension) */,
+				E0EA0D0A27BD0A6600F8DF36 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E0EA0CF127BD0A6400F8DF36 /* Shared (App) */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0CF827BD0A6400F8DF36 /* ViewController.swift */,
+				E0EA0CF927BD0A6600F8DF36 /* Assets.xcassets */,
+				E0EA0CF227BD0A6400F8DF36 /* Resources */,
+			);
+			path = "Shared (App)";
+			sourceTree = "<group>";
+		};
+		E0EA0CF227BD0A6400F8DF36 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0CF327BD0A6400F8DF36 /* Main.html */,
+				E0EA0CF527BD0A6400F8DF36 /* Icon.png */,
+				E0EA0CF627BD0A6400F8DF36 /* Style.css */,
+				E0EA0CF727BD0A6400F8DF36 /* Script.js */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E0EA0CFA27BD0A6600F8DF36 /* Shared (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0CFB27BD0A6600F8DF36 /* SafariWebExtensionHandler.swift */,
+				E0EA0CFC27BD0A6600F8DF36 /* Resources */,
+			);
+			path = "Shared (Extension)";
+			sourceTree = "<group>";
+		};
+		E0EA0CFC27BD0A6600F8DF36 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0CFD27BD0A6600F8DF36 /* _locales */,
+				E0EA0CFE27BD0A6600F8DF36 /* images */,
+				E0EA0CFF27BD0A6600F8DF36 /* manifest.json */,
+				E0EA0D0027BD0A6600F8DF36 /* background.js */,
+				E0EA0D0127BD0A6600F8DF36 /* content.js */,
+				E0EA0D0227BD0A6600F8DF36 /* popup.html */,
+				E0EA0D0327BD0A6600F8DF36 /* popup.css */,
+				E0EA0D0427BD0A6600F8DF36 /* popup.js */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E0EA0D0A27BD0A6600F8DF36 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0D0927BD0A6600F8DF36 /* DarkOrioks.app */,
+				E0EA0D1B27BD0A6600F8DF36 /* DarkOrioks.app */,
+				E0EA0D2727BD0A6600F8DF36 /* DarkOrioks Extension.appex */,
+				E0EA0D3127BD0A6600F8DF36 /* DarkOrioks Extension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E0EA0D0B27BD0A6600F8DF36 /* iOS (App) */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0D0C27BD0A6600F8DF36 /* AppDelegate.swift */,
+				E0EA0D0E27BD0A6600F8DF36 /* SceneDelegate.swift */,
+				E0EA0D1027BD0A6600F8DF36 /* LaunchScreen.storyboard */,
+				E0EA0D1327BD0A6600F8DF36 /* Main.storyboard */,
+				E0EA0D1627BD0A6600F8DF36 /* Info.plist */,
+			);
+			path = "iOS (App)";
+			sourceTree = "<group>";
+		};
+		E0EA0D1C27BD0A6600F8DF36 /* macOS (App) */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0D1D27BD0A6600F8DF36 /* AppDelegate.swift */,
+				E0EA0D1F27BD0A6600F8DF36 /* Main.storyboard */,
+				E0EA0D2227BD0A6600F8DF36 /* DarkOrioks.entitlements */,
+			);
+			path = "macOS (App)";
+			sourceTree = "<group>";
+		};
+		E0EA0D2B27BD0A6600F8DF36 /* iOS (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0D2C27BD0A6600F8DF36 /* Info.plist */,
+			);
+			path = "iOS (Extension)";
+			sourceTree = "<group>";
+		};
+		E0EA0D3527BD0A6600F8DF36 /* macOS (Extension) */ = {
+			isa = PBXGroup;
+			children = (
+				E0EA0D3627BD0A6600F8DF36 /* Info.plist */,
+				E0EA0D3727BD0A6600F8DF36 /* DarkOrioks.entitlements */,
+			);
+			path = "macOS (Extension)";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E0EA0D0827BD0A6600F8DF36 /* DarkOrioks (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E0EA0D5C27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks (iOS)" */;
+			buildPhases = (
+				E0EA0D0527BD0A6600F8DF36 /* Sources */,
+				E0EA0D0627BD0A6600F8DF36 /* Frameworks */,
+				E0EA0D0727BD0A6600F8DF36 /* Resources */,
+				E0EA0D5B27BD0A6700F8DF36 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E0EA0D2A27BD0A6600F8DF36 /* PBXTargetDependency */,
+			);
+			name = "DarkOrioks (iOS)";
+			productName = "DarkOrioks (iOS)";
+			productReference = E0EA0D0927BD0A6600F8DF36 /* DarkOrioks.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E0EA0D1A27BD0A6600F8DF36 /* DarkOrioks (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E0EA0D6327BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks (macOS)" */;
+			buildPhases = (
+				E0EA0D1727BD0A6600F8DF36 /* Sources */,
+				E0EA0D1827BD0A6600F8DF36 /* Frameworks */,
+				E0EA0D1927BD0A6600F8DF36 /* Resources */,
+				E0EA0D6227BD0A6700F8DF36 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E0EA0D3427BD0A6600F8DF36 /* PBXTargetDependency */,
+			);
+			name = "DarkOrioks (macOS)";
+			productName = "DarkOrioks (macOS)";
+			productReference = E0EA0D1B27BD0A6600F8DF36 /* DarkOrioks.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E0EA0D2627BD0A6600F8DF36 /* DarkOrioks Extension (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E0EA0D5827BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks Extension (iOS)" */;
+			buildPhases = (
+				E0EA0D2327BD0A6600F8DF36 /* Sources */,
+				E0EA0D2427BD0A6600F8DF36 /* Frameworks */,
+				E0EA0D2527BD0A6600F8DF36 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DarkOrioks Extension (iOS)";
+			productName = "DarkOrioks Extension (iOS)";
+			productReference = E0EA0D2727BD0A6600F8DF36 /* DarkOrioks Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		E0EA0D3027BD0A6600F8DF36 /* DarkOrioks Extension (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E0EA0D5F27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks Extension (macOS)" */;
+			buildPhases = (
+				E0EA0D2D27BD0A6600F8DF36 /* Sources */,
+				E0EA0D2E27BD0A6600F8DF36 /* Frameworks */,
+				E0EA0D2F27BD0A6600F8DF36 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DarkOrioks Extension (macOS)";
+			productName = "DarkOrioks Extension (macOS)";
+			productReference = E0EA0D3127BD0A6600F8DF36 /* DarkOrioks Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E0EA0CED27BD0A6400F8DF36 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1320;
+				LastUpgradeCheck = 1320;
+				TargetAttributes = {
+					E0EA0D0827BD0A6600F8DF36 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					E0EA0D1A27BD0A6600F8DF36 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					E0EA0D2627BD0A6600F8DF36 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					E0EA0D3027BD0A6600F8DF36 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+				};
+			};
+			buildConfigurationList = E0EA0CF027BD0A6400F8DF36 /* Build configuration list for PBXProject "DarkOrioks" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E0EA0CEC27BD0A6400F8DF36;
+			productRefGroup = E0EA0D0A27BD0A6600F8DF36 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E0EA0D0827BD0A6600F8DF36 /* DarkOrioks (iOS) */,
+				E0EA0D1A27BD0A6600F8DF36 /* DarkOrioks (macOS) */,
+				E0EA0D2627BD0A6600F8DF36 /* DarkOrioks Extension (iOS) */,
+				E0EA0D3027BD0A6600F8DF36 /* DarkOrioks Extension (macOS) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E0EA0D0727BD0A6600F8DF36 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0EA0D3A27BD0A6600F8DF36 /* Icon.png in Resources */,
+				E0EA0D1227BD0A6600F8DF36 /* LaunchScreen.storyboard in Resources */,
+				E0EA0D3827BD0A6600F8DF36 /* Main.html in Resources */,
+				E0EA0D3E27BD0A6600F8DF36 /* Script.js in Resources */,
+				E0EA0D4227BD0A6600F8DF36 /* Assets.xcassets in Resources */,
+				E0EA0D1527BD0A6600F8DF36 /* Main.storyboard in Resources */,
+				E0EA0D3C27BD0A6600F8DF36 /* Style.css in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D1927BD0A6600F8DF36 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0EA0D3B27BD0A6600F8DF36 /* Icon.png in Resources */,
+				E0EA0D3D27BD0A6600F8DF36 /* Style.css in Resources */,
+				E0EA0D2127BD0A6600F8DF36 /* Main.storyboard in Resources */,
+				E0EA0D3F27BD0A6600F8DF36 /* Script.js in Resources */,
+				E0EA0D4327BD0A6600F8DF36 /* Assets.xcassets in Resources */,
+				E0EA0D3927BD0A6600F8DF36 /* Main.html in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D2527BD0A6600F8DF36 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0EA0D4C27BD0A6600F8DF36 /* background.js in Resources */,
+				E0EA0D5227BD0A6600F8DF36 /* popup.css in Resources */,
+				E0EA0D5027BD0A6600F8DF36 /* popup.html in Resources */,
+				E0EA0D4827BD0A6600F8DF36 /* images in Resources */,
+				E0EA0D4A27BD0A6600F8DF36 /* manifest.json in Resources */,
+				E0EA0D4627BD0A6600F8DF36 /* _locales in Resources */,
+				E0EA0D4E27BD0A6600F8DF36 /* content.js in Resources */,
+				E0EA0D5427BD0A6600F8DF36 /* popup.js in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D2F27BD0A6600F8DF36 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0EA0D4D27BD0A6600F8DF36 /* background.js in Resources */,
+				E0EA0D5327BD0A6600F8DF36 /* popup.css in Resources */,
+				E0EA0D5127BD0A6600F8DF36 /* popup.html in Resources */,
+				E0EA0D4927BD0A6600F8DF36 /* images in Resources */,
+				E0EA0D4B27BD0A6600F8DF36 /* manifest.json in Resources */,
+				E0EA0D4727BD0A6600F8DF36 /* _locales in Resources */,
+				E0EA0D4F27BD0A6600F8DF36 /* content.js in Resources */,
+				E0EA0D5527BD0A6700F8DF36 /* popup.js in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E0EA0D0527BD0A6600F8DF36 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0EA0D4027BD0A6600F8DF36 /* ViewController.swift in Sources */,
+				E0EA0D0D27BD0A6600F8DF36 /* AppDelegate.swift in Sources */,
+				E0EA0D0F27BD0A6600F8DF36 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D1727BD0A6600F8DF36 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0EA0D4127BD0A6600F8DF36 /* ViewController.swift in Sources */,
+				E0EA0D1E27BD0A6600F8DF36 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D2327BD0A6600F8DF36 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0EA0D4427BD0A6600F8DF36 /* SafariWebExtensionHandler.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA0D2D27BD0A6600F8DF36 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E0EA0D4527BD0A6600F8DF36 /* SafariWebExtensionHandler.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E0EA0D2A27BD0A6600F8DF36 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E0EA0D2627BD0A6600F8DF36 /* DarkOrioks Extension (iOS) */;
+			targetProxy = E0EA0D2927BD0A6600F8DF36 /* PBXContainerItemProxy */;
+		};
+		E0EA0D3427BD0A6600F8DF36 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E0EA0D3027BD0A6600F8DF36 /* DarkOrioks Extension (macOS) */;
+			targetProxy = E0EA0D3327BD0A6600F8DF36 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E0EA0CF327BD0A6400F8DF36 /* Main.html */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E0EA0CF427BD0A6400F8DF36 /* Base */,
+			);
+			name = Main.html;
+			sourceTree = "<group>";
+		};
+		E0EA0D1027BD0A6600F8DF36 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E0EA0D1127BD0A6600F8DF36 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		E0EA0D1327BD0A6600F8DF36 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E0EA0D1427BD0A6600F8DF36 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		E0EA0D1F27BD0A6600F8DF36 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E0EA0D2027BD0A6600F8DF36 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E0EA0D5627BD0A6700F8DF36 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E0EA0D5727BD0A6700F8DF36 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		E0EA0D5927BD0A6700F8DF36 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K52EJNPD2V;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "DarkOrioks Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks.Extension";
+				PRODUCT_NAME = "DarkOrioks Extension";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E0EA0D5A27BD0A6700F8DF36 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K52EJNPD2V;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "DarkOrioks Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks.Extension";
+				PRODUCT_NAME = "DarkOrioks Extension";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E0EA0D5D27BD0A6700F8DF36 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K52EJNPD2V;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = DarkOrioks;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks";
+				PRODUCT_NAME = DarkOrioks;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E0EA0D5E27BD0A6700F8DF36 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K52EJNPD2V;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = DarkOrioks;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks";
+				PRODUCT_NAME = DarkOrioks;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E0EA0D6027BD0A6700F8DF36 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/DarkOrioks.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K52EJNPD2V;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "DarkOrioks Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks.Extension";
+				PRODUCT_NAME = "DarkOrioks Extension";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		E0EA0D6127BD0A6700F8DF36 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/DarkOrioks.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K52EJNPD2V;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "DarkOrioks Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks.Extension";
+				PRODUCT_NAME = "DarkOrioks Extension";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		E0EA0D6427BD0A6700F8DF36 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "macOS (App)/DarkOrioks.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K52EJNPD2V;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = DarkOrioks;
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks";
+				PRODUCT_NAME = DarkOrioks;
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		E0EA0D6527BD0A6700F8DF36 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "macOS (App)/DarkOrioks.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K52EJNPD2V;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = DarkOrioks;
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "t-software.DarkOrioks";
+				PRODUCT_NAME = DarkOrioks;
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E0EA0CF027BD0A6400F8DF36 /* Build configuration list for PBXProject "DarkOrioks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0EA0D5627BD0A6700F8DF36 /* Debug */,
+				E0EA0D5727BD0A6700F8DF36 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E0EA0D5827BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks Extension (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0EA0D5927BD0A6700F8DF36 /* Debug */,
+				E0EA0D5A27BD0A6700F8DF36 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E0EA0D5C27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0EA0D5D27BD0A6700F8DF36 /* Debug */,
+				E0EA0D5E27BD0A6700F8DF36 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E0EA0D5F27BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks Extension (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0EA0D6027BD0A6700F8DF36 /* Debug */,
+				E0EA0D6127BD0A6700F8DF36 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E0EA0D6327BD0A6700F8DF36 /* Build configuration list for PBXNativeTarget "DarkOrioks (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0EA0D6427BD0A6700F8DF36 /* Debug */,
+				E0EA0D6527BD0A6700F8DF36 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E0EA0CED27BD0A6400F8DF36 /* Project object */;
+}
