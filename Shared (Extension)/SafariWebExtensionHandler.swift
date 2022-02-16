@@ -22,5 +22,15 @@ class SafariWebExtensionHandler: NSObject, NSExtensionRequestHandling {
 
         context.completeRequest(returningItems: [response], completionHandler: nil)
     }
+    func toolbarItemClicked(in window: SFSafariWindow) {
+        // This method will be called when your toolbar item is clicked.
+        print("The extension's toolbar item was clicked")
 
+        window.getActiveTab(completionHandler: { (activeTab) in
+            activeTab?.getActivePage(completionHandler:  { (activePage) in
+                activePage?.dispatchMessageToScript(withName: "toolbarItemClicked", userInfo: nil)
+
+            })
+        })
+    }
 }
