@@ -94,6 +94,8 @@
 		E075079E27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */ = {isa = PBXBuildFile; fileRef = E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */; };
 		E075079F27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */ = {isa = PBXBuildFile; fileRef = E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */; };
 		E07507A027BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */ = {isa = PBXBuildFile; fileRef = E075079C27BD3EFA00754EFB /* darkORIOKS-256x3.png */; };
+		E08CDC5D27BD4DC90022F98F /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CFF27BD0A6600F8DF36 /* manifest.json */; };
+		E08CDC5E27BD4DCA0022F98F /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0CFF27BD0A6600F8DF36 /* manifest.json */; };
 		E0EA0D0D27BD0A6600F8DF36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D0C27BD0A6600F8DF36 /* AppDelegate.swift */; };
 		E0EA0D0F27BD0A6600F8DF36 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D0E27BD0A6600F8DF36 /* SceneDelegate.swift */; };
 		E0EA0D1227BD0A6600F8DF36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D1027BD0A6600F8DF36 /* LaunchScreen.storyboard */; };
@@ -558,6 +560,7 @@
 				E075078827BD3E6C00754EFB /* darkORIOKS iOS-29@2x.png in Resources */,
 				E075078427BD3E6C00754EFB /* darkORIOKS iOS-60@3x.png in Resources */,
 				E0EA0D3A27BD0A6600F8DF36 /* Icon.png in Resources */,
+				E08CDC5D27BD4DC90022F98F /* manifest.json in Resources */,
 				E075079D27BD3EFA00754EFB /* darkORIOKS-256x3.png in Resources */,
 				E075076827BD3E6C00754EFB /* darkORIOKS iOS-40@2x.png in Resources */,
 				E075078C27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */,
@@ -606,6 +609,7 @@
 				E075075D27BD3E6C00754EFB /* darkORIOKS iOS-20@2x.png in Resources */,
 				E075079827BD3E7E00754EFB /* darkORIOKS-256.png in Resources */,
 				E0EA0D4327BD0A6600F8DF36 /* Assets.xcassets in Resources */,
+				E08CDC5E27BD4DCA0022F98F /* manifest.json in Resources */,
 				E075079627BD3E7E00754EFB /* darkORIOKS-512.png in Resources */,
 				E075078D27BD3E6C00754EFB /* darkORIOKS iOS-29@3x.png in Resources */,
 				E075076D27BD3E6C00754EFB /* darkORIOKS iOS-1024.png in Resources */,
@@ -898,7 +902,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
@@ -929,7 +933,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
@@ -964,11 +968,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (App)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = DarkOrioks;
+				INFOPLIST_KEY_CFBundleDisplayName = NightlyORIOKS;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -1002,11 +1006,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "iOS (App)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = DarkOrioks;
+				INFOPLIST_KEY_CFBundleDisplayName = NightlyORIOKS;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -1039,7 +1043,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/DarkOrioks.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -1071,7 +1075,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/DarkOrioks.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -1106,11 +1110,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "macOS (App)/DarkOrioks.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = DarkOrioks;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1141,11 +1146,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = "macOS (App)/DarkOrioks.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = K52EJNPD2V;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = DarkOrioks;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
 				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (

@@ -22,7 +22,7 @@
     "content_scripts": [{
        
         "matches": ["https://orioks.miet.ru/*"],
-        "css": ["styles.css"],
+        "css": ["styles.css"]
     }],
 
     "browser_action": {
