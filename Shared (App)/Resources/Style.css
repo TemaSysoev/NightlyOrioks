@@ -13,6 +13,23 @@
 html {
     height: 100%;
 }
+span.grade_5{
+
+    background-color: #27aa68!important;
+
+}
+
+span.grade_4{
+
+    background-color: #70c55b!important;
+
+}
+
+span.grade_3{
+
+    background-color: #c2bc60!important;
+
+}
 
 body {
     display: flex;
@@ -23,11 +40,126 @@ body {
     gap: var(--spacing);
     margin: 0 calc(var(--spacing) * 2);
     height: 100%;
+    background-color:#22262a!important;
 
     font: -apple-system-short-body;
     text-align: center;
 }
+select.input-sm {
 
+background-color:#303841!important;
+
+color:#d8dee9!important;
+
+}
+
+ul.breadcrumb {
+
+background-color:#303841!important;
+
+border-color: transparent!important;
+
+}
+
+ul.nav {
+
+border-color: transparent!important;
+
+}
+
+ul.dropdown-menu {
+
+    background-color: #292929b8!important;
+
+}
+
+
+
+nav {
+
+background-color:#303841!important;
+
+}
+
+a {
+
+color:#7ab5df!important;
+
+background-color:transparent!important;
+
+border-color: transparent!important;
+
+}
+
+a:hover {
+
+background-color: #383e4a!important;
+
+}
+
+span#bp.label.label-default{
+
+color:#7ab5df!important;
+
+background-color:#303841!important;
+
+}
+
+
+
+div {
+
+background-color:transparent!important;
+
+}
+
+div.alert.alert-warning {
+
+background-color:#303841!important;
+
+border-color: transparent!important;
+
+}
+
+div.well {
+
+background-color:#303841!important;
+
+border-color: transparent!important;
+
+}
+
+div.list-group-item {
+
+background-color:#303841!important;
+
+border-color: transparent!important;
+
+}
+
+div.modal-body {
+
+background-color:#303841!important;
+
+}
+
+div.modal-header {
+
+background-color:#303841!important;
+
+}
+
+div.modal-footer {
+
+background-color:#303841!important;
+
+}
+
+div#notifications {
+
+background-color: #27292a!important;
+
+}
 body:not(.platform-mac, .platform-ios) :is(.platform-mac, .platform-ios) {
     display: none;
 }

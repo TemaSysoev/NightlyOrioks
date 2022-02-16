@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E075072627BD1A9D00754EFB /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = E075072527BD1A9D00754EFB /* styles.css */; };
+		E075072727BD1A9D00754EFB /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = E075072527BD1A9D00754EFB /* styles.css */; };
 		E0EA0D0D27BD0A6600F8DF36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D0C27BD0A6600F8DF36 /* AppDelegate.swift */; };
 		E0EA0D0F27BD0A6600F8DF36 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0EA0D0E27BD0A6600F8DF36 /* SceneDelegate.swift */; };
 		E0EA0D1227BD0A6600F8DF36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0EA0D1027BD0A6600F8DF36 /* LaunchScreen.storyboard */; };
@@ -90,6 +92,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E075072527BD1A9D00754EFB /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
 		E0EA0CF427BD0A6400F8DF36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = ../Base.lproj/Main.html; sourceTree = "<group>"; };
 		E0EA0CF527BD0A6400F8DF36 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		E0EA0CF627BD0A6400F8DF36 /* Style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = Style.css; sourceTree = "<group>"; };
@@ -205,6 +208,7 @@
 				E0EA0CFF27BD0A6600F8DF36 /* manifest.json */,
 				E0EA0D0027BD0A6600F8DF36 /* background.js */,
 				E0EA0D0127BD0A6600F8DF36 /* content.js */,
+				E075072527BD1A9D00754EFB /* styles.css */,
 				E0EA0D0227BD0A6600F8DF36 /* popup.html */,
 				E0EA0D0327BD0A6600F8DF36 /* popup.css */,
 				E0EA0D0427BD0A6600F8DF36 /* popup.js */,
@@ -420,6 +424,7 @@
 				E0EA0D4827BD0A6600F8DF36 /* images in Resources */,
 				E0EA0D4A27BD0A6600F8DF36 /* manifest.json in Resources */,
 				E0EA0D4627BD0A6600F8DF36 /* _locales in Resources */,
+				E075072627BD1A9D00754EFB /* styles.css in Resources */,
 				E0EA0D4E27BD0A6600F8DF36 /* content.js in Resources */,
 				E0EA0D5427BD0A6600F8DF36 /* popup.js in Resources */,
 			);
@@ -435,6 +440,7 @@
 				E0EA0D4927BD0A6600F8DF36 /* images in Resources */,
 				E0EA0D4B27BD0A6600F8DF36 /* manifest.json in Resources */,
 				E0EA0D4727BD0A6600F8DF36 /* _locales in Resources */,
+				E075072727BD1A9D00754EFB /* styles.css in Resources */,
 				E0EA0D4F27BD0A6600F8DF36 /* content.js in Resources */,
 				E0EA0D5527BD0A6700F8DF36 /* popup.js in Resources */,
 			);
