@@ -30,11 +30,13 @@
         background-color:#303841!important;
         border-color: transparent!important;
     }
+    
     ul.nav {
         border-color: transparent!important;
     }
     ul.dropdown-menu {
-        background-color: #292929b8!important;
+        background-color: #292929!important;
+        
     }
     
     nav {
@@ -55,7 +57,17 @@
     
     div {
         background-color:transparent!important;
-    } 
+        
+    }
+    #to_top:hover{
+        background-color:#303841b1!important;
+        
+    }
+    span.glyphicon.glyphicon-arrow-up{
+        color:#22262a!important;
+        
+    }
+    
     div.alert.alert-warning {
         background-color:#303841!important;
         border-color: transparent!important;
@@ -105,13 +117,14 @@
     }
     
     th {
-        border-color: #d8dee9!important;
+        background-color:#303841!important;
+        border-color: #46515e!important;
     }
     td {
-        border-color: transparent!important;
+        border-color: #46515e!important;
     }
     .col-md-4 td {
-        border-color: transparent!important;
+        border-color: #46515e!important;
         background-color: transparent!important;
     }
     tr.pointer:hover {
