@@ -23,7 +23,7 @@
 [Релиз](https://apps.apple.com/ru/app/%D0%BE%D1%80%D0%B8%D0%BE%D0%BA%D1%81-%D1%82%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BC%D0%B0/id1610349126?l=en&mt=12)
 
 **Chrome:**
-[Релиз](https://github.com/TemaSysoev/NightlyOrioks/releases/tag/stable)
+[Релиз](https://github.com/TemaSysoev/NightlyOrioks/releases)
 1. Откройте chrome://extensions/
 2. Справа вверху ставим галочку на "режим разработчика"
 3. Слева вверху в появившемся меню жмем "загрузить распакованное расширение"
