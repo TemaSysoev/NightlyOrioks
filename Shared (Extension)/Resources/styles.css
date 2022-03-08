@@ -115,7 +115,44 @@
         color:#d8dee9!important;
         border-color: transparent!important;
     }
-    
+    div.author{
+        color:#d8dee9!important;
+    }
+    textarea{
+        color:#d8dee9!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+    div.resumable-drop{
+        color:#d8dee9!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+    div.avatar{
+        color:#d8dee9!important;
+        background-color:#303841!important;
+    }
+    a.list-group-item {
+        color:#7ab5df!important;
+        background-color:#303841!important;
+        border-color: #46515e!important;
+    }
+    input{
+        color:#d8dee9!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+   
+    select{
+        color:#d8dee9!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+    button.btn.btn-primary{
+        color:#7ab5df!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
     th {
         background-color:#303841!important;
         border-color: #46515e!important;
