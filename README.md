@@ -25,7 +25,7 @@
 **Chrome:**
 [Chrome Store (рекомендуется)](https://chrome.google.com/webstore/detail/%D1%82%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BC%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BE%D1%80%D0%B8%D0%BE%D0%BA%D1%81/ceghondajoinamhobnagmeoiccjlhnhj?hl=ru-ru)
 
-[В ручную](https://github.com/TemaSysoev/NightlyOrioks/releases)
+[Вручную](https://github.com/TemaSysoev/NightlyOrioks/releases)
 1. Откройте chrome://extensions/
 2. Справа вверху ставим галочку на "режим разработчика"
 3. Слева вверху в появившемся меню жмем "загрузить распакованное расширение"
