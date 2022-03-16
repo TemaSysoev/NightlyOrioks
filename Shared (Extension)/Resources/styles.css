@@ -1,17 +1,22 @@
 @media (prefers-color-scheme: dark) {
     span.grade_5{
+        color: white!important;
         background-color: #27aa68!important; 
     }
     span.grade_4{
+        color: white!important;
         background-color: #70c55b!important; 
     }
     span.grade_3{
+        color: white!important;
         background-color: #c2bc60!important; 
     }
     span.grade_2{
+        color: white!important;
         background-color: #b96c51!important; 
     }
     span.grade_1{
+        color: white!important;
         background-color: #b94651!important; 
     }
     span.mini_circle{
@@ -46,6 +51,9 @@
         color:#7ab5df!important;
         background-color:transparent!important;
         border-color: transparent!important;
+    }
+    li.active{
+        color:#7ab5df!important;
     }
     a:hover {
         background-color: #383e4a!important;
@@ -187,7 +195,16 @@
         background-color: #7ab5df!important;
         border-color: transparent!important;
     }
-    
+    div[class="popover fade right in"] {
+        background-color: #383e4a!important;
+    }
+    span{
+        color: #d8dee9!important;
+    }
+    font{
+        color:#d8dee9!important;
+        background-color: #46515e!important;
+    }
     td {
         background-color: transparent!important;;
     } 

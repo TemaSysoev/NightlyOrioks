@@ -160,6 +160,9 @@ div#notifications {
     background-color: #27292a!important;
     
 }
+div[class="popover fade right in"] {
+    background-color: #383e4a!important;
+}
 body:not(.platform-mac, .platform-ios) :is(.platform-mac, .platform-ios) {
     display: none;
 }
