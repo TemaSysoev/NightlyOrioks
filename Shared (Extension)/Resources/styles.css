@@ -201,6 +201,30 @@
     span{
         color: #d8dee9!important;
     }
+    span[class = "fa fa-check-circle-o fa-2x text-success"]{
+        color: #27aa68!important;
+    }
+    span[class = "fa fa-question-circle-o fa-2x text-warning"]{
+        color: #e5993d!important;
+    }
+    span.text-success{
+        color: #27aa68!important;
+    }
+    span.text-warning{
+        color: #e5993d!important;
+    }
+    span[class = "fa fa-question-circle-o fa-lg"]{
+        color: #e5993d!important;
+    }
+    span[class = "fa fa-check-circle-o fa-lg"]{
+        color: #27aa68!important;
+    }
+    span[id = "notification-more-counter"]{
+        color: #7ab5df!important;
+    }
+    span[class = "glyphicon glyphicon-calendar"]{
+        color: #7ab5df!important;
+    }
     p{
         color: #d8dee9!important;
     }
