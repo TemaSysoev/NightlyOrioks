@@ -2,7 +2,7 @@
 
 Темное оформление для платформы ОРИОКС
 
-![alt text](nightlyORIOKS_screenshot.png "Красивая картинка")
+![alt text](nightlyORIOKS_screenshot2.png "Красивая картинка")
 
 **Автор и версия для Chrome:** Матвей Верховцев
 
