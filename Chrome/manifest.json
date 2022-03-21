@@ -1,0 +1,21 @@
+{
+  
+  "manifest_version": 3,
+  "name": "Темная тема для ОРИОКС",
+  "version": "1.1.3",
+  
+  "description": "Делает ОРИОКС приятным для глазок в темное время суток",
+  
+  "icons": {"128": "icon.png"},
+  
+  "content_scripts": [
+    {
+      "matches": ["https://orioks.miet.ru/*"],
+      "css": ["styles.css"]
+    }
+  ],
+  "action": {
+  },
+  
+  "options_page": "options.html"
+}

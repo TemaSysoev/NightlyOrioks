@@ -1,0 +1,238 @@
+@media (prefers-color-scheme: dark) {
+    span.grade_5{
+        color: white!important;
+        background-color: #27aa68!important; 
+    }
+    span.grade_4{
+        color: white!important;
+        background-color: #70c55b!important; 
+    }
+    span.grade_3{
+        color: white!important;
+        background-color: #c2bc60!important; 
+    }
+    span.grade_2{
+        color: white!important;
+        background-color: #b96c51!important; 
+    }
+    span.grade_1{
+        color: white!important;
+        background-color: #b94651!important; 
+    }
+    span.mini_circle{
+        background-color: #b94651!important; 
+    }
+    
+    body {
+        background-color:#22262a!important;
+        color: #d8dee9!important;
+    }
+    select.input-sm {
+        background-color:#303841!important;
+        color:#d8dee9!important;
+    }
+    ul.breadcrumb {
+        background-color:#303841!important;
+        border-color: transparent!important;
+    }
+    
+    ul.nav {
+        border-color: transparent!important;
+    }
+    ul.dropdown-menu {
+        background-color: #292929!important;
+        
+    }
+    
+    nav {
+        background-color:#303841!important;
+    }
+    a {
+        color:#7ab5df!important;
+        background-color:transparent!important;
+        border-color: transparent!important;
+    }
+    li.active{
+        color:#7ab5df!important;
+    }
+    a:hover {
+        background-color: #383e4a!important;
+    }
+    span#bp.label.label-default{
+        color:#7ab5df!important;
+        background-color:#303841!important;
+    }
+    
+    div {
+        background-color:transparent!important;
+        
+    }
+    #to_top:hover{
+        background-color:#303841b1!important;
+        
+    }
+    span.glyphicon.glyphicon-arrow-up{
+        color:#22262a!important;
+        
+    }
+    
+    div.alert.alert-warning {
+        background-color:#303841!important;
+        border-color: transparent!important;
+    }
+    div.well {
+        background-color:#303841!important;
+        border-color: transparent!important;
+    }
+    div.list-group-item {
+        background-color:#303841!important;
+        border-color: transparent!important;
+    }
+    div.modal-body {
+        background-color:#303841!important;
+    }
+    div.modal-header {
+        background-color:#303841!important;
+    }
+    div.modal-footer {
+        background-color:#303841!important;
+    }
+    div#notifications {
+        background-color: #27292a!important;
+    }
+    div.notification {
+        border-color: transparent!important;
+    }
+    div.notification:hover {
+        background-color: #383e4a!important;
+    }
+    div.notification-more {
+        background-color: #27292a!important;
+    }
+    div.notification-more:hover {
+        background-color: #383e4a!important;
+    }
+    div.notification-message{
+        color:#d8dee9!important;
+    }
+    div.panel-heading {
+        color:#d8dee9!important;
+    }
+    div.panel {
+        background-color:#303841!important;
+        color:#d8dee9!important;
+        border-color: transparent!important;
+    }
+    div.author{
+        color:#d8dee9!important;
+    }
+    textarea{
+        color:#d8dee9!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+    div.resumable-drop{
+        color:#d8dee9!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+    div.avatar{
+        color:#d8dee9!important;
+        background-color:#303841!important;
+    }
+    a.list-group-item {
+        color:#7ab5df!important;
+        background-color:#303841!important;
+        border-color: #46515e!important;
+    }
+    input{
+        color:#d8dee9!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+   
+    select{
+        color:#d8dee9!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+    button.btn.btn-primary{
+        color:#7ab5df!important;
+        background-color:#22262ab1!important;
+        border-color: #46515e!important;
+    }
+    th {
+        background-color:#303841!important;
+        border-color: #46515e!important;
+    }
+    td {
+        border-color: #46515e!important;
+    }
+    .col-md-4 td {
+        border-color: #46515e!important;
+        background-color: transparent!important;
+    }
+    tr.pointer:hover {
+        background-color: #303841!important;
+    }
+    tr {
+        background-color: transparent!important;
+    }
+    
+    nav.bg-white {
+        background-color:#303841!important;
+    }
+    #region-main {
+        background-color: transparent!important;;
+    } 
+    div.content {
+        background-color: transparent!important;;
+    } 
+    selection.region-main {
+        background-color: transparent!important;;
+    } 
+    button.bg-gray {
+        background-color: #7ab5df!important;
+        border-color: transparent!important;
+    }
+    div[class="popover fade right in"] {
+        background-color: #383e4a!important;
+    }
+    span{
+        color: #d8dee9!important;
+    }
+    span[class = "fa fa-check-circle-o fa-2x text-success"]{
+        color: #27aa68!important;
+    }
+    span[class = "fa fa-question-circle-o fa-2x text-warning"]{
+        color: #e5993d!important;
+    }
+    span.text-success{
+        color: #27aa68!important;
+    }
+    span.text-warning{
+        color: #e5993d!important;
+    }
+    span[class = "fa fa-question-circle-o fa-lg"]{
+        color: #e5993d!important;
+    }
+    span[class = "fa fa-check-circle-o fa-lg"]{
+        color: #27aa68!important;
+    }
+    span[id = "notification-more-counter"]{
+        color: #7ab5df!important;
+    }
+    span[class = "glyphicon glyphicon-calendar"]{
+        color: #7ab5df!important;
+    }
+    p{
+        color: #d8dee9!important;
+    }
+    font{
+        color:#d8dee9!important;
+        background-color: #46515e!important;
+    }
+    td {
+        background-color: transparent!important;;
+    } 
+}
