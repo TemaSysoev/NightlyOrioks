@@ -225,6 +225,9 @@
     span[class = "glyphicon glyphicon-calendar"]{
         color: #7ab5df!important;
     }
+    span[class =  "pull-right label label-default"]{
+        color: #22262a !important;
+    }
     p{
         color: #d8dee9!important;
     }
