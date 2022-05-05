@@ -167,9 +167,14 @@
     }
     td {
         border-color: #46515e!important;
+       background-color: transparent!important;
     }
+    
     .col-md-4 td {
         border-color: #46515e!important;
+        background-color: transparent!important;
+    }
+    div [class = "table table-hover"]{
         background-color: transparent!important;
     }
     tr.pointer:hover {
@@ -193,6 +198,10 @@
     } 
     button.bg-gray {
         background-color: #7ab5df!important;
+        border-color: transparent!important;
+    }
+    button.close{
+        color: white!important;
         border-color: transparent!important;
     }
     div[class="popover fade right in"] {
@@ -228,6 +237,15 @@
     span[class =  "pull-right label label-default"]{
         color: #22262a !important;
     }
+    span[class = "label label-warning ng-scope ng-binding"]{
+        background-color: #b96c51!important;
+    }
+    span[class = "label label-info ng-binding"]{
+        color: #303841!important;
+        background-color:#7ab5df!important;
+        
+    }
+    
     p{
         color: #d8dee9!important;
     }
@@ -235,7 +253,5 @@
         color:#d8dee9!important;
         background-color: #46515e!important;
     }
-    td {
-        background-color: transparent!important;;
-    } 
+   
 }

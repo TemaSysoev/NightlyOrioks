@@ -1,17 +1,22 @@
 @media (prefers-color-scheme: dark) {
     span.grade_5{
+        color: white!important;
         background-color: #27aa68!important; 
     }
     span.grade_4{
+        color: white!important;
         background-color: #70c55b!important; 
     }
     span.grade_3{
+        color: white!important;
         background-color: #c2bc60!important; 
     }
     span.grade_2{
+        color: white!important;
         background-color: #b96c51!important; 
     }
     span.grade_1{
+        color: white!important;
         background-color: #b94651!important; 
     }
     span.mini_circle{
@@ -46,6 +51,9 @@
         color:#7ab5df!important;
         background-color:transparent!important;
         border-color: transparent!important;
+    }
+    li.active{
+        color:#7ab5df!important;
     }
     a:hover {
         background-color: #383e4a!important;
@@ -159,9 +167,14 @@
     }
     td {
         border-color: #46515e!important;
+       background-color: transparent!important;
     }
+    
     .col-md-4 td {
         border-color: #46515e!important;
+        background-color: transparent!important;
+    }
+    div [class = "table table-hover"]{
         background-color: transparent!important;
     }
     tr.pointer:hover {
@@ -187,8 +200,58 @@
         background-color: #7ab5df!important;
         border-color: transparent!important;
     }
+    button.close{
+        color: white!important;
+        border-color: transparent!important;
+    }
+    div[class="popover fade right in"] {
+        background-color: #383e4a!important;
+    }
+    span{
+        color: #d8dee9!important;
+    }
+    span[class = "fa fa-check-circle-o fa-2x text-success"]{
+        color: #27aa68!important;
+    }
+    span[class = "fa fa-question-circle-o fa-2x text-warning"]{
+        color: #e5993d!important;
+    }
+    span.text-success{
+        color: #27aa68!important;
+    }
+    span.text-warning{
+        color: #e5993d!important;
+    }
+    span[class = "fa fa-question-circle-o fa-lg"]{
+        color: #e5993d!important;
+    }
+    span[class = "fa fa-check-circle-o fa-lg"]{
+        color: #27aa68!important;
+    }
+    span[id = "notification-more-counter"]{
+        color: #7ab5df!important;
+    }
+    span[class = "glyphicon glyphicon-calendar"]{
+        color: #7ab5df!important;
+    }
+    span[class =  "pull-right label label-default"]{
+        color: #22262a !important;
+    }
+    span[class = "label label-warning ng-scope ng-binding"]{
+        background-color: #b96c51!important;
+    }
+    span[class = "label label-info ng-binding"]{
+        color: #303841!important;
+        background-color:#7ab5df!important;
+        
+    }
     
-    td {
-        background-color: transparent!important;;
-    } 
+    p{
+        color: #d8dee9!important;
+    }
+    font{
+        color:#d8dee9!important;
+        background-color: #46515e!important;
+    }
+   
 }
